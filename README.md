@@ -1,7 +1,7 @@
 # React Tic tac Toe
 
 Following this tutorial
-https://legacy.reactjs.org/tutorial/tutorial.html
+https://react.dev/learn/tutorial-tic-tac-toe
 
 ## React Installation
 1. Install npm using nvm : https://nodejs.org/en/download/package-manager
